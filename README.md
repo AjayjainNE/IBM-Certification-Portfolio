@@ -1,4 +1,4 @@
-# 🧠 Ajay Jain — IBM AI Engineering Portfolio
+# Ajay Khadke — IBM AI Engineering Portfolio
 
 **AI/ML Engineer · Data Scientist · Research Assistant · NLP Engineer · LLM Engineer**
 
@@ -11,7 +11,7 @@ Hands-on project portfolio completed as part of the **IBM AI Engineering Profess
 
 ---
 
-## 🛠️ Technical Skills Demonstrated
+## Technical Skills Demonstrated
 
 | Area | Skills |
 |---|---|
@@ -23,9 +23,9 @@ Hands-on project portfolio completed as part of the **IBM AI Engineering Profess
 
 ---
 
-## 📁 Projects
+## Projects
 
-### 🤖 Generative AI & LLMs
+### Generative AI & LLMs
 
 | Project | Description | Key Skills |
 |---|---|---|
@@ -33,7 +33,7 @@ Hands-on project portfolio completed as part of the **IBM AI Engineering Profess
 | **[Transformers Fine-Tuning](./Transformers_Fine_Tuning/)** | Fine-tuning pre-trained transformer models for downstream NLP tasks | Hugging Face, Transfer Learning, Model Optimization |
 | **[PEFT · Hugging Face · PyTorch](./PEFT_HF_PYT/)** | Parameter-efficient fine-tuning using LoRA and soft prompts on Hugging Face models | PEFT, LoRA, Soft Prompts, Instruction Tuning, PyTorch |
 
-### 🧬 Deep Learning
+###  Deep Learning
 
 | Project | Description | Key Skills |
 |---|---|---|
@@ -42,20 +42,20 @@ Hands-on project portfolio completed as part of the **IBM AI Engineering Profess
 | **[Neural Networks — PyTorch](./Neural_Network_Pytorch/)** | Feedforward neural network implementation and optimization | PyTorch nn.Module, Activation Functions, Optimizers, Loss Functions |
 | **[Project DL](./Project_DL/)** | Deep learning project applying CNNs for image recognition and classification | CNN, Image Classification, Model Evaluation |
 
-### 📊 Machine Learning
+###  Machine Learning
 
 | Project | Description | Key Skills |
 |---|---|---|
 | **[Machine Learning Algorithms](./Machine_Learning_Algorithm/)** | Implementation of core ML algorithms — regression, classification, and clustering | Scikit-learn, Regression, SVM, Decision Trees, k-Means |
 
-### 🔤 NLP
+###  NLP
 
 | Project | Description | Key Skills |
 |---|---|---|
 | **[News Article Classification](./Project_Classification_News_Article/)** | Multi-class text classification on a real-world news dataset | NLP, TF-IDF, Text Preprocessing, Classification, Evaluation Metrics |
 | **[Histogram & N-Gram for Pop Lyrics](./Project_Histogram_NGram_for_Pop_Lyrics/)** | Statistical language analysis using N-Gram models and frequency distributions | N-Gram Modeling, Tokenization, Text Analysis, Data Visualization |
 
-### 🎓 Capstone
+###  Capstone
 
 | Project | Description | Key Skills |
 |---|---|---|
@@ -63,7 +63,7 @@ Hands-on project portfolio completed as part of the **IBM AI Engineering Profess
 
 ---
 
-## 📚 Reference Materials
+##  Reference Materials
 
 | File | Description |
 |---|---|
@@ -87,7 +87,7 @@ Hands-on project portfolio completed as part of the **IBM AI Engineering Profess
 
 ---
 
-## 📌 Role-to-Project Map
+##  Role-to-Project Map
 
 | Role | Relevant Projects |
 |---|---|
@@ -99,4 +99,4 @@ Hands-on project portfolio completed as part of the **IBM AI Engineering Profess
 
 ---
 
-🔗 **GitHub:** [github.com/AjayjainNE](https://github.com/AjayjainNE) · **Certificates:** [learning-vault](https://github.com/AjayjainNE/learning-vault) · *Open to RA, AI/ML, Data Science, and NLP roles*
+ **GitHub:** [github.com/AjayjainNE](https://github.com/AjayjainNE) · **Certificates:** [learning-vault](https://github.com/AjayjainNE/learning-vault) · *Open to RA, AI/ML, Data Science, and NLP roles*
